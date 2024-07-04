@@ -1,0 +1,11 @@
+@EndUserText.label: 'Access Control of CDS Demo'
+@MappingRole: true
+define role ZAHK_CDS_ENTITY02 {
+    grant
+        select
+            on
+                ZAHK_CDS_ENTITY02
+                    where
+                        pos > 1;
+                        
+}
