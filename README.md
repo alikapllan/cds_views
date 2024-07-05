@@ -79,7 +79,8 @@ Usage:
 In certain scenarios, Composition Views can be used as Consumption Views, particularly when the data model is straightforward and the Composition View meets the requirements for direct consumption. However, for more complex scenarios and to adhere to best practices in maintainability, reusability, and optimization, it is generally advisable to maintain a clear distinction between Composition Views and Consumption Views.
 
 ### [A Basic Project Example with Types](https://github.com/alikapllan/cds_views/tree/main/src/zahk_rap_managed_01) 
-![image](https://github.com/alikapllan/cds_views/assets/46874082/f69b8fab-afd4-41d8-b290-0ee8a3cabc85)
+![image](https://github.com/alikapllan/cds_views/assets/46874082/3f3cd48c-8747-420b-b9d5-2edbeed3dae2)
+
 #### How it looks in Fiori 
 ![image](https://github.com/alikapllan/cds_views/assets/46874082/95d763fe-3049-4f9c-b0f4-cc065863bd39)
 ![image](https://github.com/alikapllan/cds_views/assets/46874082/36a410a5-7dc2-41c9-9afc-70639d6e72d2)
