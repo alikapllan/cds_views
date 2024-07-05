@@ -18,6 +18,7 @@
 ## [SQL Expressions / Functions / Aggregations](https://github.com/alikapllan/cds_views/blob/main/src/zahk_cds_entity03.ddls.asddls#L13-L61)
 
 ## [Extending CDS Views](https://github.com/alikapllan/cds_views/blob/main/src/zahk_cds_entity02_extend.ddls.asddls#L1-L6)  
+-> [Extending with Association](https://github.com/alikapllan/cds_views/blob/main/src/zahk_cds_entity02_extend_assoc.ddls.asddls#L1-L6)
 ![image](https://github.com/alikapllan/cds_views/assets/46874082/2059ffec-b0dd-4fb0-9f27-34f06c4691c4)
 
 ## [Nested Views](https://github.com/alikapllan/cds_views/blob/main/src/zahk_cds_entity02_nested.ddls.asddls#L4-L20)
@@ -51,3 +52,34 @@ When database requires specific functions which open SQL does not have, then we 
 
   
 ![image](https://github.com/alikapllan/cds_views/assets/46874082/99b74e6b-e6e1-4f7d-8b35-0a111bf6cc28)
+
+
+## View Types 
+![image](https://github.com/alikapllan/cds_views/assets/46874082/3b37b4a2-a1ec-45ea-a084-8ae4c7483931) 
+#### Basic Views
+Purpose: 
+* Used for Data Read from Tables
+  
+#### Composition Views
+Purpose: 
+* Composition Views are used to build more complex views by combining multiple basic views. They serve as intermediate views that aggregate, transform, and join data from underlying basic views (Private Views or other Composition Views).
+
+Usage:
+* They help structure and organize data models by encapsulating complex logic and calculations.
+* Composition Views can be reused across different parts of the application or different applications, providing a standardized data foundation.  
+  
+#### Consumption Views
+Purpose:
+* Consumption Views are designed for direct use by applications, reports, or analytical tools. They represent the final layer in the view hierarchy, optimized for specific reporting and analytical needs.
+
+Usage:
+* These views present data in a format suitable for end-user consumption, often including annotations for UI purposes, authorization checks, and other metadata to facilitate use by Fiori apps, OData services, etc.
+  
+#### Additional Information:
+In certain scenarios, Composition Views can be used as Consumption Views, particularly when the data model is straightforward and the Composition View meets the requirements for direct consumption. However, for more complex scenarios and to adhere to best practices in maintainability, reusability, and optimization, it is generally advisable to maintain a clear distinction between Composition Views and Consumption Views.
+
+### [A Basic Project Example with Types](https://github.com/alikapllan/cds_views/tree/main/src/zahk_rap_managed_01) 
+![image](https://github.com/alikapllan/cds_views/assets/46874082/f69b8fab-afd4-41d8-b290-0ee8a3cabc85)
+#### How it looks in Fiori 
+![image](https://github.com/alikapllan/cds_views/assets/46874082/95d763fe-3049-4f9c-b0f4-cc065863bd39)
+![image](https://github.com/alikapllan/cds_views/assets/46874082/36a410a5-7dc2-41c9-9afc-70639d6e72d2)
