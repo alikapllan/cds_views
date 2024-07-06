@@ -7,8 +7,7 @@
 
 
 ## [ABAP Annotations](https://github.com/alikapllan/cds_views/blob/main/src/zahk_cds_entity02.ddls.asddls#L1-L26)
--> [All CDS Annotations]([https://help.sap.com/docs/ABAP_PLATFORM_NEW/cc0c305d2fab47bd808adcad3ca7ee9d/630ce9b386b84e80bfade96779fbaeec.html](https://help.sap.com/doc/abapdocu_750_index_htm/7.50/en-US/abencds_annotations_sap.htm))
-
+-> [All CDS Annotations](https://help.sap.com/doc/abapdocu_750_index_htm/7.50/en-US/abencds_annotations_sap.htm)
 ## Access Control 
 ![image](https://github.com/alikapllan/cds_views/assets/46874082/f63769c5-a07e-4ed9-aca3-450bd67583cf)
 -> [Access Control Simple Condition Example](https://github.com/alikapllan/cds_views/blob/main/src/zahk_cds_entity02.dcls.asdcls#L1-L11)  
