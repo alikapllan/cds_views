@@ -96,7 +96,7 @@ CLASS ZCL_DEMO_DATA_LOAD_01 IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.
-*    reset_sample_so_so_item( ).
+    reset_sample_so_so_item( ).
     create_sample_so_item( ).
     create_sample_so_header( ).
 
