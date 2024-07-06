@@ -7,7 +7,7 @@
 
 
 ## [ABAP Annotations](https://github.com/alikapllan/cds_views/blob/main/src/zahk_cds_entity02.ddls.asddls#L1-L26)
--> [All CDS Annotations](https://help.sap.com/docs/ABAP_PLATFORM_NEW/cc0c305d2fab47bd808adcad3ca7ee9d/630ce9b386b84e80bfade96779fbaeec.html)
+-> [All CDS Annotations]([https://help.sap.com/docs/ABAP_PLATFORM_NEW/cc0c305d2fab47bd808adcad3ca7ee9d/630ce9b386b84e80bfade96779fbaeec.html](https://help.sap.com/doc/abapdocu_750_index_htm/7.50/en-US/abencds_annotations_sap.htm))
 
 ## Access Control 
 ![image](https://github.com/alikapllan/cds_views/assets/46874082/f63769c5-a07e-4ed9-aca3-450bd67583cf)
@@ -79,7 +79,7 @@ Usage:
 In certain scenarios, Composition Views can be used as Consumption Views, particularly when the data model is straightforward and the Composition View meets the requirements for direct consumption. However, for more complex scenarios and to adhere to best practices in maintainability, reusability, and optimization, it is generally advisable to maintain a clear distinction between Composition Views and Consumption Views.
 
 ### [A Basic Project Example with Types](https://github.com/alikapllan/cds_views/tree/main/src/zahk_rap_managed_01) 
-![image](https://github.com/alikapllan/cds_views/assets/46874082/3f3cd48c-8747-420b-b9d5-2edbeed3dae2)
+![image](https://github.com/alikapllan/cds_views/assets/46874082/5b23c7b5-78a6-41d7-abcf-65855eefacd1)
 
 #### How it looks in Fiori 
 ![image](https://github.com/alikapllan/cds_views/assets/46874082/95d763fe-3049-4f9c-b0f4-cc065863bd39)
