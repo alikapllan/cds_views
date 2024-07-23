@@ -53,6 +53,13 @@ When database requires specific functions which open SQL does not have, then we 
   
 ![image](https://github.com/alikapllan/cds_views/assets/46874082/99b74e6b-e6e1-4f7d-8b35-0a111bf6cc28)
 
+## SAP Developers - Video Series about Core Data Services
+1. [ABAP Core Data Services Overview](https://www.youtube.com/watch?v=lvorIY4Xyio)
+2. [Virtual Elements](https://www.youtube.com/watch?v=TqD-H03znVo)
+3. [CDS View Extensions](https://www.youtube.com/watch?v=IPEotH-6ekI)
+4. [CDS Access Control](https://www.youtube.com/watch?v=uxgs4FigmuQ&t=1s)
+5. [CDS Unit Test](https://www.youtube.com/watch?v=ezQ0vbhV8QY&t=3s)
+6. [CDS Troubleshooting](https://www.youtube.com/watch?v=q7Yhj6BnWJo)
 
 ## View Types 
 ![image](https://github.com/alikapllan/cds_views/assets/46874082/3b37b4a2-a1ec-45ea-a084-8ae4c7483931) 
