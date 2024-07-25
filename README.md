@@ -63,7 +63,7 @@ When database requires specific functions which open SQL does not have, then we 
 
 ## View Types 
 ![image](https://github.com/alikapllan/cds_views/assets/46874082/3b37b4a2-a1ec-45ea-a084-8ae4c7483931) 
-#### Basic Views
+#### Basic/Interface Views
 Purpose: 
 * Used for Data Read from Tables
   
