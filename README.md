@@ -60,6 +60,7 @@ When database requires specific functions which open SQL does not have, then we 
 4. [CDS Access Control](https://www.youtube.com/watch?v=uxgs4FigmuQ&t=1s)
 5. [CDS Unit Test](https://www.youtube.com/watch?v=ezQ0vbhV8QY&t=3s)
 6. [CDS Troubleshooting](https://www.youtube.com/watch?v=q7Yhj6BnWJo)
+7. [CDS Annotations](https://www.youtube.com/watch?v=GXFHjq5L8M8)
 
 ## View Types 
 ![image](https://github.com/alikapllan/cds_views/assets/46874082/3b37b4a2-a1ec-45ea-a084-8ae4c7483931) 
