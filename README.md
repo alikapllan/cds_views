@@ -77,7 +77,7 @@ Usage:
 * They help structure and organize data models by encapsulating complex logic and calculations.
 * Composition Views can be reused across different parts of the application or different applications, providing a standardized data foundation.  
   
-#### Consumption Views
+#### Consumption Views / Projection
 Purpose:
 * Consumption Views are designed for direct use by applications, reports, or analytical tools. They represent the final layer in the view hierarchy, optimized for specific reporting and analytical needs.
 
@@ -88,8 +88,11 @@ Usage:
 In certain scenarios, Composition Views can be used as Consumption Views, particularly when the data model is straightforward and the Composition View meets the requirements for direct consumption. However, for more complex scenarios and to adhere to best practices in maintainability, reusability, and optimization, it is generally advisable to maintain a clear distinction between Composition Views and Consumption Views.
 
 ### [A Basic Project Example with Types](https://github.com/alikapllan/cds_views/tree/main/src/zahk_rap_managed_01) 
-![image](https://github.com/alikapllan/cds_views/assets/46874082/5b23c7b5-78a6-41d7-abcf-65855eefacd1)
+![image](https://github.com/user-attachments/assets/8261c47c-77f8-40ac-ac02-a082954ef47c)
+![image](https://github.com/user-attachments/assets/486ace4e-a63b-4267-b8d9-a2f379573319)
+
 
 #### How it looks in Fiori 
-![image](https://github.com/alikapllan/cds_views/assets/46874082/95d763fe-3049-4f9c-b0f4-cc065863bd39)
-![image](https://github.com/alikapllan/cds_views/assets/46874082/36a410a5-7dc2-41c9-9afc-70639d6e72d2)
+![image](https://github.com/user-attachments/assets/5bd34623-efa3-4a7e-a142-abde89b3cfa5)
+![image](https://github.com/user-attachments/assets/7c95b622-ca8f-45f6-8541-73f8d70cc4ad)
+
