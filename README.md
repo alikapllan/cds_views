@@ -13,7 +13,8 @@
 -> [Access Control Simple Condition Example](https://github.com/alikapllan/cds_views/blob/main/src/zahk_cds_entity02.dcls.asdcls#L1-L11)  
 -> For PFCG Aspect you need to create Authorization Field & Authorization Object/s  
 -> Access Control could also be inherited from another CDS View Role  
--> More info can be found in the [video from SAP Developers](https://www.youtube.com/watch?v=uxgs4FigmuQ&ab_channel=SAPDevelopers)
+-> More info can be found in the [video from SAP Developers](https://www.youtube.com/watch?v=uxgs4FigmuQ&ab_channel=SAPDevelopers)  
+-> Another helpful source about Implementing Authorizations from [SAP Learning](https://learning.sap.com/courses/building-apps-with-the-abap-restful-application-programming-model/implementing-basic-authorizations_LE_24a91f5d-e1e6-42f0-90aa-785e889d06bb)
 
 ## [SQL Expressions / Functions / Aggregations](https://github.com/alikapllan/cds_views/blob/main/src/zahk_cds_entity03.ddls.asddls#L13-L61)
 
