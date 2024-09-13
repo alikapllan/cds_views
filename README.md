@@ -39,7 +39,8 @@ Therefore using associations comparing to joins could be considerable as this co
 -> [Implementation Example AMDP](https://github.com/alikapllan/cds_views/blob/main/src/zahk_amdp/zcl_demo_amdp_03_cds.clas.abap#L1-L40)  
 -> Why we have the need to consume AMDP in CDS?  
 When database requires specific functions which open SQL does not have, then we need to consume AMDP in CDS.For example, when we need to perform complex calculations in CDS, sorting or deleting multiplied data. This can be achieved through AMDP.  
--> More Info could be found in this [blogpost in SAP Community](https://community.sap.com/t5/application-development-blog-posts/using-amdp-in-cds-and-some-useful-functions/ba-p/13575039).
+-> More Info could be found in this [blogpost in SAP Community](https://community.sap.com/t5/application-development-blog-posts/using-amdp-in-cds-and-some-useful-functions/ba-p/13575039).  
+-> SAP Documentation -> [ABAP-Managed Database Procedures (AMDP)](https://help.sap.com/docs/SAP_NETWEAVER_740/6811c09434084fd1bc4f40e66913ce11/3e7ce62892d243eca44499d3f5a54bff.html?locale=en-US)
 
 ## Tools for Analyzing Exisiting CDS Views
 -> a very [nice blog](https://software-heroes.com/en/blog/abap-tools-work-with-eclipse-cds-analysis) from Software Heroes on this topic.  
