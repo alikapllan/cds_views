@@ -113,3 +113,6 @@ In certain scenarios, Composition Views can be used as Consumption Views, partic
 ![image](https://github.com/user-attachments/assets/5bd34623-efa3-4a7e-a142-abde89b3cfa5)
 ![image](https://github.com/user-attachments/assets/7c95b622-ca8f-45f6-8541-73f8d70cc4ad)
 
+## CDS Field Mapping app by [Software-Heroes](https://software-heroes.com/en/abap-cds-field-mapping)
+this nice app gives new Core Data Services including field names as successors for old tables.  
+![image](https://github.com/user-attachments/assets/7ef6047e-ffe0-4cba-a15d-f19a0b91ddd6)
