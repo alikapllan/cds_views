@@ -64,7 +64,21 @@ When database requires specific functions which open SQL does not have, then we 
 6. [CDS Troubleshooting](https://www.youtube.com/watch?v=q7Yhj6BnWJo)
 7. [CDS Annotations](https://www.youtube.com/watch?v=GXFHjq5L8M8)
 8. [CDS Associations](https://www.youtube.com/watch?v=fhmx51FIysE)
-9. [Data Integration in ABAP Cloud with SQL services and CDS External Entities](https://www.youtube.com/live/pu_aa-P3d2o)
+
+## View Entities
+### Custom Entities 
+allowing developers to implement their own data retrieval using ABAP by custom implementation. It is linked with an ABAP Class the retrieval execution is done on application server.  
+--> [SAP Help Portal - Custom Entities](https://help.sap.com/docs/abap-cloud/abap-data-models/cds-custom-entities)  
+--> [Using a CDS Custom Entity for Data Modeling in RAP](https://help.sap.com/docs/abap-cloud/abap-rap/using-cds-custom-entity-for-data-modeling?locale=en-US)  
+--> [An Use Case Example](https://sapcodes.com/2022/02/12/cds-custom-entity/)  
+### Abstract Entities 
+is a CDS entity that does not correspond to a database table or view, serving as a template or base definition. It is used to define common structures, fields, and associations that can be inherited by concrete entities.  
+--> [SAP Help Portal - Abstract Entities](https://help.sap.com/docs/abap-cloud/abap-data-models/cds-abstract-entities)  
+### External Entities 
+enabling ABAP applications to access data from external systems using SQL and integrate it into the CDS infrastructure. This allows data retrieval and interaction between the ABAP system and external databases, whether they are SAP HANA or non-SAP HANA systems, or a remote AS ABAP. CDS external entities serve as persistent entities within the ABAP environment for this purpose.  
+--> [SAP Help Portal - External Entities](https://help.sap.com/docs/abap-cloud/abap-data-models/cds-external-entities)  
+--> [Blog Post - ABAP CDS Release News 2408 – External Entities](https://help.sap.com/docs/abap-cloud/abap-data-models/cds-external-entities)  
+--> [Data Integration in ABAP Cloud with SQL services and CDS External Entities](https://www.youtube.com/watch?v=pu_aa-P3d2o)   
 
 ## View Types 
 ![image](https://github.com/alikapllan/cds_views/assets/46874082/3b37b4a2-a1ec-45ea-a084-8ae4c7483931) 
