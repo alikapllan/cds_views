@@ -42,6 +42,13 @@ When database requires specific functions which open SQL does not have, then we 
 -> More Info could be found in this [blogpost in SAP Community](https://community.sap.com/t5/application-development-blog-posts/using-amdp-in-cds-and-some-useful-functions/ba-p/13575039).  
 -> SAP Documentation -> [ABAP-Managed Database Procedures (AMDP)](https://help.sap.com/docs/SAP_NETWEAVER_740/6811c09434084fd1bc4f40e66913ce11/3e7ce62892d243eca44499d3f5a54bff.html?locale=en-US)
 
+## CDS Types and Enums
+-> Replacement of Data Elements in the ABAP Dictionary  
+-> Source: [SoftwareHeroes - CDS Types and Enums](https://software-heroes.com/en/blog/abap-cds-types-and-enums)  
+* [Simple Type Declaration](https://github.com/alikapllan/cds_views/blob/main/src/zahk_simple_type_doc_category.drty.acds#L1-L4)  
+* [Enum Type Declaration](https://github.com/alikapllan/cds_views/blob/main/src/zahk_type_doc_category_enum.drty.acds#L1-L17)  
+* [Usage of Simple Type & Enum](https://github.com/alikapllan/cds_views/blob/main/src/zcl_cds_type_test.clas.abap#L12-L24)  
+
 ## Tools for Analyzing Exisiting CDS Views
 -> a very [nice blog](https://software-heroes.com/en/blog/abap-tools-work-with-eclipse-cds-analysis) from Software Heroes on this topic.  
 ### Additional - HANA PlanVisualizer(PlanViz)
@@ -51,7 +58,6 @@ When database requires specific functions which open SQL does not have, then we 
 * Run your CDS you want to analyze  
 * After result go back to ST05 and stop tracing  
 * Download the trace in .plv format and in ADT switch to SAP Hana PlanViz Perspective and open the file you downloaded
-
   
 ![image](https://github.com/alikapllan/cds_views/assets/46874082/99b74e6b-e6e1-4f7d-8b35-0a111bf6cc28)
 
