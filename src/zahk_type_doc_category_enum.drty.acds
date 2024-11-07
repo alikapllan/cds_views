@@ -1,0 +1,17 @@
+@EndUserText.quickInfo: 'Doc. Categ. Enum'
+@EndUserText.label: 'CDS Type ENUM - Document Category'
+@EndUserText.heading: 'CDS Type ENUM  - Document Category'
+define type ZAHK_TYPE_DOC_CATEGORY_ENUM : abap.char(1) enum
+{
+  @EndUserText.label: 'Initial'
+  Empty        = initial;
+  @EndUserText.label: 'Inquiry'
+  Inquiry      = 'A';
+  @EndUserText.label: 'Quotation'
+  @EndUserText.quickInfo: 'Doc. Categ. Enum'
+  Quotation    = 'B';
+  @EndUserText.label: 'Order'
+  Orderr       = 'C';
+  @EndUserText.label: 'Item Proposal'
+  ItemProposal = 'D';
+}

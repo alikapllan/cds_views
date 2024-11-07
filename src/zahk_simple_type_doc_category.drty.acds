@@ -1,0 +1,4 @@
+@EndUserText.quickInfo: 'Doc. Categ.'
+@EndUserText.label: 'CDS Simple Type - Document Category'
+@EndUserText.heading: 'CDS Simple Type - Document Category'
+define type ZAHK_SIMPLE_TYPE_DOC_CATEGORY: abap.char(1)
