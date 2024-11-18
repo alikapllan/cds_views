@@ -13,7 +13,7 @@ define view entity Zahk_cds04 as select from zahk_po_head_1
     description as Description,
     status as Status,
     purch_org as PurchOrg,
-    @Semantics.amount.currencyCode: 'Zahk_cds04.Currency'
+//    @Semantics.amount.currencyCode: 'Zahk_cds04.Currency'
     sum(netprice) as Sum_Netprice,
     currency as Currency,
     last_changed_timestamp as LastChangedTimestamp
