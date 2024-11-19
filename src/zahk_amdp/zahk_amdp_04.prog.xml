@@ -17,6 +17,11 @@
      <LENGTH>49</LENGTH>
     </item>
    </TPOOL>
+   <I18N_TPOOL>
+    <item>
+     <LANGUAGE>D</LANGUAGE>
+    </item>
+   </I18N_TPOOL>
   </asx:values>
  </asx:abap>
 </abapGit>
