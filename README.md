@@ -24,6 +24,11 @@
 
 ## [Nested Views](https://github.com/alikapllan/cds_views/blob/main/src/zahk_cds_entity02_nested.ddls.asddls#L4-L20)
 
+## [Hierarchical Views](https://github.com/alikapllan/cds_views/blob/main/src/zahk_i_schoolmembers_hierarchy.ddls.asddls#L1-L22)
+-> A way to represent data with parent–child relationships in Core Data Services. A hierarchy CDS helps you define  connections (e.g., “My parent is X”), so you can easily navigate, filter, and display multi-level structures in a clear, organized way.  
+-> To see the db table, interface view and data load class details refer to [this commit](https://github.com/alikapllan/cds_views/commit/0eaa41290893e24ae107d8cb2a001b601126b8c2).  
+-> Source: [SoftwareHeroes - CDS Hierarchy](https://software-heroes.com/en/blog/abap-cds-hierarchy).
+
 ## [Joins](https://github.com/alikapllan/cds_views/blob/main/src/zahk_cds_entity02_join.ddls.asddls#L4-L19)
 
 ## [UNION(ALL)](https://github.com/alikapllan/cds_views/blob/main/src/zahk_cds_entity02_union.ddls.asddls#L10-L37)
