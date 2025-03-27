@@ -1,0 +1,11 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "SQL Implementation of scalar function",
+    "originalLanguage": "en",
+    "abapLanguageVersion": ""
+  },
+  "scalarFunctionName": "ZAHK_I_GET_WEEKDAY_SCALARF",
+  "engine": "sqlEngine",
+  "amdpName": "ZCL_DEMO_AMDP_SCALAR_FUNC=>GET_WEEKDAY_TEXT"
+}
