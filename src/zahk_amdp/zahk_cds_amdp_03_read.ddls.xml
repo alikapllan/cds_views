@@ -4,6 +4,7 @@
   <asx:values>
    <DDLS>
     <DDLNAME>ZAHK_CDS_AMDP_03_READ</DDLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
     <SOURCE_TYPE>W</SOURCE_TYPE>
    </DDLS>
   </asx:values>

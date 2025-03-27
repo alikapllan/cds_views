@@ -7,7 +7,8 @@
     sizeCategory: #S,
     dataClass: #MIXED
 }
-
+// Enable Buffering 
+// @AbapCatalog.entityBuffer.propagationAllowed: true // currently my system release is not allowing it
 // This CDS view is only for showcase / training purpose
 
 define view entity ZAHK_CDS_ENTITY03
