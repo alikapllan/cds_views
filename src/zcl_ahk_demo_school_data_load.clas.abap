@@ -26,6 +26,7 @@ CLASS zcl_ahk_demo_school_data_load IMPLEMENTATION.
 
     lt_school_members = VALUE #( ( person_id  = '1'
                                    fullname   = 'Anderson Talisca'
+                                   title      = 'Manager'
                                    teacher_id = '' )
 
                                  ( person_id  = '2'
