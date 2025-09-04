@@ -52,7 +52,10 @@ When database requires specific functions which open SQL does not have, then we 
 -> Source: [SoftwareHeroes - CDS Types and Enums](https://software-heroes.com/en/blog/abap-cds-types-and-enums)  
 * [Simple Type Declaration](https://github.com/alikapllan/cds_views/blob/main/src/zahk_simple_type_doc_category.drty.acds#L1-L4)  
 * [Enum Type Declaration](https://github.com/alikapllan/cds_views/blob/main/src/zahk_type_doc_category_enum.drty.acds#L1-L17)  
-* [Usage of Simple Type & Enum](https://github.com/alikapllan/cds_views/blob/main/src/zcl_cds_type_test.clas.abap#L12-L24)  
+* [Usage of Simple Type & Enum](https://github.com/alikapllan/cds_views/blob/main/src/zcl_cds_type_test.clas.abap#L12-L24)
+
+## Some useful built-in functions
+-> [currency_conversion](https://github.com/alikapllan/cds_views/blob/main/src/zahk_i_currency_conversion_fn.ddls.asddls#L20-L25)
 
 ## Tools for Analyzing Exisiting CDS Views
 -> a very [nice blog](https://software-heroes.com/en/blog/abap-tools-work-with-eclipse-cds-analysis) from Software Heroes on this topic.  
