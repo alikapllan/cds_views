@@ -69,6 +69,12 @@ When database requires specific functions which open SQL does not have, then we 
   
 ![image](https://github.com/alikapllan/cds_views/assets/46874082/99b74e6b-e6e1-4f7d-8b35-0a111bf6cc28)
 
+## How to search a specific CDS type in ADT?
+* **CTRL + SHIFT + A** -> Open ABAP Development Object  
+[Source: Software Heroes -> CDS - Types of Data Definitions](https://software-heroes.com/en/blog/abap-cds-types-of-data-definitions)
+<img width="555" height="568" alt="image" src="https://github.com/user-attachments/assets/3be47c88-96ea-4b67-b1f6-0633830b90d3" />
+
+
 ## SAP Developers - Video Series about Core Data Services
 1. [ABAP Core Data Services Overview](https://www.youtube.com/watch?v=lvorIY4Xyio)
 2. [Virtual Elements](https://www.youtube.com/watch?v=TqD-H03znVo)
